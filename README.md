@@ -1,4 +1,13 @@
 # PhishBuster
 
-Install or unload package in browser named as Extensions
-First you have to run Phishbuster.py file in the backend before start using the extension.
+Step1.  Install or unload package in browser Folder named as named as Extensions.
+Step 2. First you have to run Phishbuster.py file in the backend before start using the extension. ( Backend ML model )
+
+
+how to load extension ?
+
+step1.  open your browser.
+step 2. Go. to extension.
+step 3. Turn On Developer mode.
+step 3. Click load unbacked and select "extension" folder.
+Step 4. Run backend Ml file in pc.
