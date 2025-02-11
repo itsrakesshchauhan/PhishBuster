@@ -1,4 +1,4 @@
-This is a phishing website detector used as browser extension.
+This is a phishing website detector tool used as browser extension.
 
 
 # PhishBuster
