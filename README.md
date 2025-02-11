@@ -1,3 +1,6 @@
+This is a phishing website detector used as browser extension.
+
+
 # PhishBuster
 
 Step1.  Install or unload package in browser Folder named as named as Extensions.
