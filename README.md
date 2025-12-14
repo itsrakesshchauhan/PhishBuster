@@ -1,7 +1,7 @@
 # 🛡️ PhishBuster  
 ### Intelligent Phishing Detection System
 
-PhishBuster is a security-focused project designed to **detect phishing websites and malicious URLs** using intelligent analysis techniques.  
+PhishBuster is a web-Extension security-focused project designed to **detect phishing websites and malicious URLs** using intelligent analysis techniques.  
 The goal of this project is to help users identify potentially harmful links before they become victims of online fraud.
 
 ---
